@@ -1,4 +1,4 @@
-# (OOPwaiywaiy) library for exampl python OOP by Suppanimit meemungkit
+# (OOPwaiywaiy) library for example python OOP by Suppanimit meemungkit
 
 This programing is only example for python OOP learning 
 

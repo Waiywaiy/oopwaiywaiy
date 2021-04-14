@@ -1,6 +1,6 @@
-import pythonOOP
-from pythonOOP import Student
-from pythonOOP import *
+import oopwaiywaiy.pythonOOP
+from oopwaiywaiy.pythonOOP import Student,SpecialStudent
+from oopwaiywaiy.pythonOOP import *
 
 def Test():
     '''
